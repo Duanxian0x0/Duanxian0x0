@@ -1,4 +1,5 @@
 ### Hi there 👋
+I am duanxian0x0, a learner on the way, and I am very willing to learn and make progress with you. You can find some of my learning experiences and problems in my warehouse. I hope it will be helpful to you！
 
 <!--
 **Duanxian0x0/Duanxian0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
