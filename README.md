@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am duanxian0x0, a learner on the way, and I am very willing to learn and make progress with you. You can find some of my learning experiences and problems in my warehouse. I hope it will be helpful to you！
+I am duanxian0x0, a learner on the way, and I am very willing to learn and make progress with you. 😄You can find some of my learning experiences and problems in my warehouse. I hope it will be helpful to you！
 
 <!--
 **Duanxian0x0/Duanxian0x0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,3 +18,4 @@ Here are some ideas to get you started:
 ------------------------------------------------------------------------------------------------------
 [![Duanxian0x0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duanxian0x0&show_icons=true&theme=radical)](https://github.com/Duanxian0x0)
 ------------------------------------------------------------------------------------------------------
+![Visitor Count](https://profile-counter.glitch.me/Duanxian0x0/count.svg)
