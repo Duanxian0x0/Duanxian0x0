@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 ------------------------------------------------------------------------------------------------------
 [![Duanxian0x0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duanxian0x0&show_icons=true&theme=radical)](https://github.com/Duanxian0x0)
 ------------------------------------------------------------------------------------------------------
-![Visitor Count](https://profile-counter.glitch.me/Duanxian0x0/count.svg)
+:relaxed:You are my ![Visitor Count](https://profile-counter.glitch.me/Duanxian0x0/count.svg) visitor ,thank you!
