@@ -16,5 +16,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ------------------------------------------------------------------------------------------------------
-[![Duanxian0x0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duanxian0x0&show_icons=true&theme=radical)](https://Duanxian0x0.github.io/)
+[![Duanxian0x0's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duanxian0x0&show_icons=true&theme=radical)](https://github.com/Duanxian0x0)
 ------------------------------------------------------------------------------------------------------
